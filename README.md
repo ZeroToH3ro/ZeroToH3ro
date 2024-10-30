@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on [Facebook](https://www.facebook.com/Mtblaser.j2team/)
 
-- 💬 Ask me about <b>PHP</b>, **Ruby, Java, C++**, <b>Javascript</b>
+- 💬 Ask me about **DotNet, Ruby, Java**, <b>Javascript</b>
 
 - 📫 How to reach me **mtblaser2002@gmail.com**
 
