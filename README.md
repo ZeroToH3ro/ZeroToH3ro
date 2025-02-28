@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **ZeroToMaster, Coursera, University,....**
 
-- 👯 I’m looking to collaborate on [Facebook](https://www.facebook.com/Mtblaser.j2team/)
+- 👯 I’m looking to collaborate on [X](https://x.com/Z3ro_0102)
 
-- 💬 Ask me about **DotNet, Ruby, Java**, <b>Javascript</b>
+- 💬 Ask me about **C#, Ruby, Java**, <b>Javascript</b>
 
 - 📫 How to reach me **mtblaser2002@gmail.com**
 
