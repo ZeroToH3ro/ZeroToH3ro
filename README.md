@@ -6,11 +6,11 @@
 
 - 👯 I’m looking to collaborate on [X](https://x.com/Z3ro_0102)
 
-- 💬 Ask me about **C#, Ruby, Java**, <b>Javascript</b>
+- 💬 Ask me about **C#, Ruby, Java, PHP**, <b>Javascript</b>
 
-- 📫 How to reach me **mtblaser2002@gmail.com**
+- 📫 How to reach me **franziska.bohmer814@emailhub.kr**
 
-- ⚡ Quote **Practice makes better**
+- ⚡ Quote **Practice makes perfect**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
