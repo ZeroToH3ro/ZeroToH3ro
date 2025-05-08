@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_WEBSITE_URL_HERE" target="_blank">
+  <a href="https://my-profile-beta-seven.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Pixel%20Portfolio-Z3ro__OS-1a1a2e?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=ffcb2b" alt="View My Portfolio"/>
   </a>
 </p>
@@ -18,32 +18,6 @@ I'm Z3ro (or Z3ro_O102), a fullstack developer with a growing passion for blockc
 - 💬 **Ask me about:** C#, C++, JavaScript, TypeScript.
 - 📫 **How to reach me:** franziska.bohmer814@emailhub.kr
 - ⚡ **Quote:** "The only way to do great work is to love what you do." - Steve Jobs
-
----
-
-<h3 align="left">🚀 My Skillset:</h3>
-
-#### Fullstack Development:
-- NestJS
-- ReactJS
-- TypeScript
-- JavaScript
-- PostgreSQL
-- MySQL
-- Linux
-- Docker
-
-#### Blockchain Development:
-- Solidity
-- Move
-- Rust
-- Hardhat
-- Truffle
-- Smart Contracts
-- DeFi
-- Mini App Development (Blockchain/Web3 focused)
-- NFT Concepts & Development
-- Bot Trading (Conceptual/Development)
 
 ---
 
