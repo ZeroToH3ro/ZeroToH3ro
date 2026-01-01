@@ -1,5 +1,5 @@
-<h1 align="center">Hi everyone, Call Me Z3ro</h1>
-<h3 align="center">A passionate fullstack developer from Earth</h3>
+<h1 align="center">Hi everyone, Call Me Maverick</h1>
+<h3 align="center">A passionate web3 developer from Earth</h3>
 
 <p align="center">
   <a href="https://my-profile-beta-seven.vercel.app/" target="_blank">
@@ -15,6 +15,6 @@ I'm Z3ro (or Z3ro_O102), a fullstack developer with a growing passion for blockc
 
 - 🌱 **I’m currently learning:** BootDev, Blockchain, Web3, and always exploring new technologies to expand my skillset.
 - 👯 **I’m looking to collaborate on:** Exciting and innovative projects, especially those involving fullstack or blockchain development. Let's connect on [X (formerly Twitter)](https://x.com/Z3ro_0102)!
-- 💬 **Ask me about:** C#, C++, JavaScript, TypeScript.
+- 💬 **Ask me about:** Move, Rust, C++, JavaScript, TypeScript.
 - 📫 **How to reach me:** franziska.bohmer814@emailhub.kr
 - ⚡ **Quote:** "The only way to do great work is to love what you do." - Steve Jobs
