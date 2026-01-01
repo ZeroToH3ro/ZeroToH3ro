@@ -11,7 +11,7 @@
 
 ---
 
-I'm Z3ro (or Z3ro_O102), a fullstack developer with a growing passion for blockchain technologies. Welcome to my corner of GitHub!
+I'm Maverick (or Z3ro_O102), a web3 developer with a growing passion for blockchain technologies. Welcome to my corner of GitHub!
 
 - 🌱 **I’m currently learning:** BootDev, Blockchain, Web3, and always exploring new technologies to expand my skillset.
 - 👯 **I’m looking to collaborate on:** Exciting and innovative projects, especially those involving fullstack or blockchain development. Let's connect on [X (formerly Twitter)](https://x.com/Z3ro_0102)!
