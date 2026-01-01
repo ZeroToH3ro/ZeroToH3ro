@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web3 developer from Earth</h3>
 
 <p align="center">
-  <a href="https://my-profile-beta-seven.vercel.app/" target="_blank">
+  <a href="[git@github.com:ZeroToH3ro/my-profile.git](https://profile.maverick-trinh.xyz/)" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Pixel%20Portfolio-Z3ro__OS-1a1a2e?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=ffcb2b" alt="View My Portfolio"/>
   </a>
 </p>
